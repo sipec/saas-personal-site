@@ -17,7 +17,7 @@
 <div class="section">
 	<Nav />
 	<main>
-		<Link href="https://manifold.markets/sinclair" label="manifold"><span /></Link>
+		<Link href="https://manifold.markets/Sinclair" label="manifold"><span /></Link>
 		<Link href="https://github.com/sipec" label="github"><GithubIcon /></Link>
 		<Link href="https://twitter.com/SinclarityChen" label="twitter"><TwitterIcon /></Link>
 		<Link href="https://discord.com/users/257305864988393483" label="discord"><TwitchIcon /></Link>
