@@ -1,8 +1,12 @@
-<span><a href="/">Sinclair</a></span>
+<a href="/">sincl<mark>ai</mark>r</a>
 
 <style>
-	span {
+	a {
 		font-family: 'Sniglet', cursive !important;
-		font-size: 30px;
+		font-size: 40px;
+	}
+	mark {
+		background-color: unset;
+		color: #ffbae8;
 	}
 </style>
