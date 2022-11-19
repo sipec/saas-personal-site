@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Logo from '$lib/Logo.svelte'
-	import { HeartIcon } from 'svelte-feather-icons'
+	import { HeartIcon, TerminalIcon } from 'svelte-feather-icons'
 </script>
 
 <div class="top">
@@ -8,7 +8,7 @@
 	<div>
 		<Logo />
 		<div class="row">
-			<a href="/work">work</a>
+			<a href="/work"><TerminalIcon />work</a>
 			<a
 				href="https://sinclaaair.notion.site/Date-Me-487ef432c1f54938bf5e7a45ef05d57b"
 				target="_blank"
