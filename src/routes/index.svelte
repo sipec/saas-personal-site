@@ -1,4 +1,5 @@
 <script>
+	import DiscordIcon from '$lib/DiscordIcon.svelte'
 	import IconLink from '$lib/IconLink.svelte'
 	import Link from '$lib/Link.svelte'
 	import ManifoldIcon from '$lib/ManifoldIcon.svelte'
@@ -10,7 +11,6 @@
 		LinkedinIcon,
 		MessageCircleIcon,
 		TvIcon,
-		TwitchIcon,
 		TwitterIcon,
 	} from 'svelte-feather-icons'
 </script>
@@ -21,7 +21,7 @@
 		<Link href="https://manifold.markets/Sinclair" label="manifold"><ManifoldIcon /></Link>
 		<Link href="https://github.com/sipec" label="github"><GithubIcon /></Link>
 		<Link href="https://twitter.com/SinclarityChen" label="twitter"><TwitterIcon /></Link>
-		<Link href="https://discord.com/users/257305864988393483" label="discord"><TwitchIcon /></Link>
+		<Link href="https://discord.com/users/257305864988393483" label="discord"><DiscordIcon /></Link>
 		<Link href="https://usemotion.com/meet/sinclair-chen/hii" label="book me">
 			<CalendarIcon />
 		</Link>
