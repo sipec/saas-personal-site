@@ -20,7 +20,7 @@
 	<main>
 		<Link href="https://manifold.markets/Sinclair" label="manifold"><ManifoldIcon /></Link>
 		<Link href="https://github.com/sipec" label="github"><GithubIcon /></Link>
-		<Link href="https://twitter.com/SinclarityChen" label="twitter"><TwitterIcon /></Link>
+		<Link href="https://twitter.com/singularitttt" label="twitter"><TwitterIcon /></Link>
 		<Link href="https://discord.com/users/257305864988393483" label="discord"><DiscordIcon /></Link>
 		<Link href="https://usemotion.com/meet/sinclair-chen/hii" label="book me">
 			<CalendarIcon />
