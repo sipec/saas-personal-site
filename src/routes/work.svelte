@@ -3,18 +3,20 @@
 </script>
 
 <div>
-	<Nav page="work" />
+	<Nav />
 	<main>
-		<h1>projects</h1>
-		🚧 page is wip in progress 🚧
-		<br /><br />
-		<a href="https://oneword.games">One Word</a>
-		<a href="https://tilt-to-tilt.netlify.app">Tilt to Live</a>
-		<a href="https://sipec.github.io/project.html">Taste the Waste</a>
+		<div>not looking at the moment!</div>
 		<br />
 		<a href="https://sinclaaair.notion.site/Sinclair-s-Resume-1f1c0c3e2a234655881de9d263586411">
 			Resume
 		</a>
+		<br /> <br />
+		<h1>past projects</h1>
+		<br />
+		<a href="https://oneword.games">One Word</a>
+		<a href="https://tilt-to-tilt.netlify.app">Tilt to Live</a>
+		<a href="https://sipec.github.io/project.html">Taste the Waste</a>
+		<br />
 	</main>
 </div>
 
@@ -24,7 +26,7 @@
 	}
 
 	h1 {
-		font-size: 36px;
+		margin: 0;
 	}
 
 	a {

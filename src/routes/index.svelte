@@ -5,7 +5,6 @@
 	import ManifoldIcon from '$lib/ManifoldIcon.svelte'
 	import Nav from '$lib/Nav.svelte'
 	import {
-		CalendarIcon,
 		GithubIcon,
 		InstagramIcon,
 		LinkedinIcon,
@@ -22,9 +21,6 @@
 		<Link href="https://github.com/sipec" label="github"><GithubIcon /></Link>
 		<Link href="https://twitter.com/singularitttt" label="twitter"><TwitterIcon /></Link>
 		<Link href="https://discord.com/users/257305864988393483" label="discord"><DiscordIcon /></Link>
-		<Link href="https://usemotion.com/meet/sinclair-chen/hii" label="book me">
-			<CalendarIcon />
-		</Link>
 		<Link href="https://admonymous.co/si" label="message"><MessageCircleIcon /></Link>
 	</main>
 	<div class="other">
